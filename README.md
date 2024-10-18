@@ -1,4 +1,4 @@
-# WoW Token Price LDB
+# WoW Token Price Display
 
 [<img src="https://img.shields.io/static/v1?label=curseforge&logo=curseforge&color=orange&message=install">](https://www.curseforge.com/wow/addons/wow-token-price-display)
 
