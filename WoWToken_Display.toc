@@ -1,6 +1,6 @@
-## Interface: 110002
+## Interface: 110005
 ## Title: WoW Token Display
-## Version: 1.0.0
+## Version: 1.0.1
 ## Notes: Displays the WoW Token price on a minimap button and in a separate small box.
 ## Author: StarkzXP1
 ## SavedVariables: WoWTokenDisplay_DB
